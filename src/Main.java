@@ -6,7 +6,8 @@ public class Main {
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
         // change branch3-1
-        // change branch3-9
+        // change branch3-1-1
+        // change branch3-1-2
 
         // Press Umschalt+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
